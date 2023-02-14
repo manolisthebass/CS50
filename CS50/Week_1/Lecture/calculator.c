@@ -12,5 +12,5 @@ int main(void)
     // solution to type casting and  (change x and y from int to float)
     // solution to floating point imprecision (use double instead of float)
     double z = (double) x / (double) y;
-    printf("%.20f\n", z);
+    printf("%.20f\n", z);   // test comment
 }
